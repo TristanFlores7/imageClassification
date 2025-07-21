@@ -6,4 +6,18 @@ This model works by using Tensorflow to create a convolution neural network. The
 
 In my testing, the model performed well with 20 epochs of training, and its results can be viewed in the 'modelTrainingPerformance' directory, or below:
 
-![accuracyGraph][modelTrainingPerformance/Accuracy.png] ![lossGraph][modelTrainingPerformance/Loss.png]
+![accuracyGraph](modelTrainingPerformance/Accuracy.png) ![lossGraph](modelTrainingPerformance/Loss.png)
+
+I should also note for functionality that this program uses the following compilier and library versions:
+
+Python 3.9
+
+TensorFlow 2.10.1
+
+OpenCV 4.10
+
+NumPy 1.26.4
+
+Pillow 10.4
+
+MatPlotLib 3.9.1
