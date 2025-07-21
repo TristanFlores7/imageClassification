@@ -8,7 +8,7 @@ In my testing, the model performed well with 20 epochs of training, and its resu
 
 ![accuracyGraph](modelTrainingPerformance/Accuracy.png) ![lossGraph](modelTrainingPerformance/Loss.png)
 
-I should also note for functionality that this program uses the following compilier and library versions:
+I should also note for functionality that this program uses the following interpreter and library versions:
 
 Python 3.9
 
